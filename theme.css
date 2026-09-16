@@ -36,7 +36,7 @@
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
   /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url("./images/pc-jojo-live-wallpaper.gif");
+  --background-image: url("https://github.com/richfloppa/discord-jotaro-theme/blob/main/background.gif");
   /* JoJo Live Wallpaper GIF */
   --background-position: center;
   /* app background position [default: center] */
